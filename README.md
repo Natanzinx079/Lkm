@@ -37,6 +37,16 @@ AddButton.Parent = MainFrame
 AddButton.Position = UDim2.new(0, 20, 0, 60)
 AddButton.Size = UDim2.new(0, 260, 0, 40)
 AddButton.BackgroundColor3 = Color3.fromRGB(0, 150, 255)
+AddButton.Text = "Adicionar"
+AddButton.TextColor3 = Color3.new(1,1,1)
+AddButton.TextSize = 18
+AddButton.Font = Enum.Font.SourceSansBold
+
+AddButton.Name = "AddButton"
+AddButton.Parent = MainFrame
+AddButton.Position = UDim2.new(0, 20, 0, 60)
+AddButton.Size = UDim2.new(0, 260, 0, 40)
+AddButton.BackgroundColor3 = Color3.fromRGB(0, 150, 255)
 AddButton.Text = "Adicionar botão de notificação"
 AddButton.TextColor3 = Color3.new(1,1,1)
 AddButton.TextSize = 18
